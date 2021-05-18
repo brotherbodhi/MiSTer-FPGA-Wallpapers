@@ -11,3 +11,5 @@ Examples of some wallpapers:
 
 How they will look in use:
 ![Wallpaper in use](https://github.com/brotherbodhi/MiSTer-FPGA-Wallpapers/blob/main/Example%20Previews/MiSTer%20Wallpaper%20example%20in%20use.jpg?raw=true)
+![Wallpaper in use](https://github.com/brotherbodhi/MiSTer-FPGA-Wallpapers/blob/main/Example%20Previews/metroid%20example%20in%20use.jpg?raw=true)
+
