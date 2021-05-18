@@ -8,5 +8,7 @@ Here are some wallpapers I have been making for the MiSTer. I am a big fan of th
 Examples of some wallpapers:
 ![Wallpaper Example](https://github.com/brotherbodhi/MiSTer-FPGA-Wallpapers/blob/main/Example%20Previews/MiSTer%20Wallpaper%20example.png?raw=true)
 
+![Wallpaper in use 2](https://github.com/brotherbodhi/MiSTer-FPGA-Wallpapers/blob/main/Example%20Previews/2nd%20MiSTer%20Wallpaper%20example.png?raw=true)
+
 How they will look in use:
 ![Wallpaper in use](https://github.com/brotherbodhi/MiSTer-FPGA-Wallpapers/blob/main/Example%20Previews/MiSTer%20Wallpaper%20example%20in%20use.jpg?raw=true)
